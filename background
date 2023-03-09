@@ -1,4 +1,3 @@
--- add this in your <head> tag
 <style>
 body {
   background-image: url('image_file.jpg');
