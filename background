@@ -1,5 +1,9 @@
+<html>
+<head>
 <style>
 body {
   background-image: url('image_file.jpg');
 }
 </style>
+<head>
+</html>
